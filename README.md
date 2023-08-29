@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Farooq Dar</h1>
-<h3 align="center">BE in Computer Science. Hands-on experience of advanced Application of JAVA, JavaScript, CSS, HTML, ReactJs etc to build the user-friendly application</h3>
+<h3 align="center">BE in Computer Science. Hands-on experience of advanced Application of JAVA, JavaScript, C#, WebAPI Core to build the user-friendly application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidfarooqdar&label=Profile%20views&color=0e75b6&style=flat" alt="zahidfarooqdar" /> </p>
 
