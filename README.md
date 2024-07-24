@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahid Farooq Dar</h1>
-<h3 align="center">BE in Computer Science. Hands-on experience of advanced Application of JAVA, JavaScript, C#, WebAPI Core to build the user-friendly application</h3>
+<h3 align="center">BE in Computer Science with Hands-On Experience in Advanced Application DevelopmentCurrently working as a Backend Developer at Reno Softwares, specializing in ASP.NET Core Web API. Experienced in building user-friendly applications using Java, C#, and Web API Core.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidfarooqdar&label=Profile%20views&color=0e75b6&style=flat" alt="zahidfarooqdar" /> </p>
 
