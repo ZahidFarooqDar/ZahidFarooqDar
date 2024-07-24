@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zahid Farooq Dar</h1>
-<h3 align="center">BE in Computer Science with Hands-On Experience in Advanced Application DevelopmentCurrently working as a Backend Developer at Reno Softwares, specializing in ASP.NET Core Web API. Experienced in building user-friendly applications using Java, C#, and Web API Core.</h3>
+<h3 align="center">BE in Computer Science with Hands-On Experience in Advanced Application Development Currently working as a Backend Developer at Reno Softwares, specializing in ASP.NET Core Web API. Experienced in building user-friendly applications using Java, C#, and Web API Core.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahidfarooqdar&label=Profile%20views&color=0e75b6&style=flat" alt="zahidfarooqdar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zahidfarooqdar" alt="zahidfarooqdar" /></a> </p>
 
-- 🔭 I’m currently working on [INSTAGRAM-BACKEND-APP](https://github.com/ZahidFarooqDar/insta-backend)
+- 🔭 I’m currently working at [Reno Softwares as Backend Developer](https://renosoftwares.com)
 
-- 🌱 I’m currently learning **Springboot, ReactJS, .NET**
+- 🌱 I’m currently learning **Asp.Net Core Web API, C#, SQL**
 
 - 👯 I’m looking to collaborate on [Food Delivery Platform](https://github.com/ZahidFarooqDar/mctProject/tree/main/foodDelivery)
 
 - 🤝 I’m looking for help with [News Dog API](https://github.com/ZahidFarooqDar/news-dog)
 
-- 💬 Ask me about **Java, Springboot, ReactJS**
+- 💬 Ask me about **ASP.NET Core, C#, SQL, JAVA, SpringBoot**
 
 - 📫 How to reach me **raahizaahid@gmail.com**
 
