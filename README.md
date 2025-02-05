@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Asp.Net Core Web API, C#, SQL**
 
-- 👯 I’m looking to collaborate on [Food Delivery Platform](https://github.com/ZahidFarooqDar/mctProject/tree/main/foodDelivery)
+- 👯 I’m looking to collaborate on [Core Vision](https://github.com/ZahidFarooqDar/CoreVision)
 
-- 🤝 I’m looking for help with [News Dog API](https://github.com/ZahidFarooqDar/news-dog)
+- 🤝 I’m looking for help with [Coupon Next](https://github.com/ZahidFarooqDar/CouponNest)
 
 - 💬 Ask me about **ASP.NET Core, C#, SQL, JAVA, SpringBoot**
 
